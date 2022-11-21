@@ -1,0 +1,1 @@
+import{x as s,o as n,b as t,e}from"./entry.1765734b.mjs";const o={},c={class:"p-5 d-flex justify-content-center align-items-center"},r=e("span",{class:"spinner-border spinner-border-lg text-primary"},null,-1),_=e("span",{class:"fs-1 ms-2"},"Loading...",-1),a=[r,_];function i(d,l){return n(),t("div",c,a)}const f=s(o,[["render",i]]);export{f as _};
